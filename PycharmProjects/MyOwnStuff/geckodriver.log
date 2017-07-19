@@ -1,0 +1,252 @@
+1494434073980	geckodriver	INFO	Listening on 127.0.0.1:52031
+1494434075704	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494434076977	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494434082236	Marionette	INFO	Listening on port 52037
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494434083079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494434166960	geckodriver	INFO	Listening on 127.0.0.1:52097
+1494434169123	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494434170326	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494434174462	Marionette	INFO	Listening on port 52103
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494434174931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1494434467007	geckodriver	INFO	Listening on 127.0.0.1:52229
+1494434468908	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494434470583	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494434474833	Marionette	INFO	Listening on port 52235
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494434475326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+1494434534873	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1494434537976	geckodriver	INFO	Listening on 127.0.0.1:52305
+1494434540097	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494434540633	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494434545305	Marionette	INFO	Listening on port 52311
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494434545873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494474428878	geckodriver	INFO	Listening on 127.0.0.1:54825
+1494474431239	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494474441923	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494503092453	geckodriver	INFO	Listening on 127.0.0.1:53313
+1494503094055	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494503097684	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494503105839	Marionette	INFO	Listening on port 53321
+1494503106318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+rce://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494503495595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1494581171755	geckodriver	INFO	Listening on 127.0.0.1:63524
+1494581173634	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494581177688	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494581190731	Marionette	INFO	Listening on port 63539
+1494581191161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494581292344	geckodriver	INFO	Listening on 127.0.0.1:63750
+1494581294146	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494581296474	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494581302804	Marionette	INFO	Listening on port 63759
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494581303834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+1494581384826	geckodriver	INFO	Listening on 127.0.0.1:63958
+1494581386987	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494581388270	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494581392763	Marionette	INFO	Listening on port 63966
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494581395120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494581956317	geckodriver	INFO	Listening on 127.0.0.1:64938
+1494581958033	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494581959174	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494581963818	Marionette	INFO	Listening on port 64946
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494581964427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+up()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582111738	Marionette	INFO	Listening on port 65248
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582112230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+1494582195363	geckodriver	INFO	Listening on 127.0.0.1:65446
+1494582197479	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494582199838	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582204896	Marionette	INFO	Listening on port 65454
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582205427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+tte"]
+1494582330731	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582336046	Marionette	INFO	Listening on port 49335
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582337292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1494582516971	geckodriver	INFO	Listening on 127.0.0.1:49704
+1494582518473	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494582520593	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582532581	Marionette	INFO	Listening on port 49716
+1494582533662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1494582827993	geckodriver	INFO	Listening on 127.0.0.1:50263
+1494582829748	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494582831504	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582836381	Marionette	INFO	Listening on port 50271
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582837304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+tte"]
+1494582909373	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582913615	Marionette	INFO	Listening on port 50459
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582914045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+tte"]
+1494582976389	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582983222	Marionette	INFO	Listening on port 50637
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494582983572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 92: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 1: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalearning.js?v=1jydanyz6ocbn, line 3: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/ext-live/ext-all.js?v=1jydanyz6ocbn, line 18: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sabalive.js?v=1jydanyz6ocbn, line 64: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+JavaScript warning: https://static-eu2.sabacloud.com/assets/s/1jydanyz6ocbn/scripts/deploy/sjsapp/learning.ledetail.js?_dc=1jydanyz6ocbn, line 7: unreachable code after return statement
+1494583048941	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

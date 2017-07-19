@@ -1,0 +1,198 @@
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Device is not responding to ICMP
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Device is not responding to ICMP
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Device is not responding to ICMP
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/1 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Device is not responding to ICMP
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Device is not responding to ICMP
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/0/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/0/1 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down
+Serial0/1/0 Interface is down

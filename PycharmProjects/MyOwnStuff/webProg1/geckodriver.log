@@ -1,0 +1,1042 @@
+1494327797112	geckodriver	INFO	Listening on 127.0.0.1:57741
+1494327833975	geckodriver	INFO	Listening on 127.0.0.1:57753
+1494329223956	geckodriver	INFO	Listening on 127.0.0.1:57709
+1494329241452	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494329248529	addons.manager	DEBUG	Application has been upgraded
+1494329248530	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1494329248533	addons.manager	DEBUG	Completed startup sequence
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+*** Blocklist::_preloadBlocklistFile: blocklist is disabled
+1494329261350	Marionette	INFO	Listening on port 57720
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329262313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494329287597	geckodriver	INFO	Listening on 127.0.0.1:57774
+1494329289769	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494329291001	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329294918	Marionette	INFO	Listening on port 57780
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329295318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494329330593	geckodriver	INFO	Listening on 127.0.0.1:57824
+1494329332684	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494329332995	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329336405	Marionette	INFO	Listening on port 57830
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329336888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1494329400478	geckodriver	INFO	Listening on 127.0.0.1:57863
+1494329402572	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494329402910	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329406863	Marionette	INFO	Listening on port 57869
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329407914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494329443934	geckodriver	INFO	Listening on 127.0.0.1:57905
+1494329446044	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494329446357	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329450283	Marionette	INFO	Listening on port 57911
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329451330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://static.saavncdn.com/_s/1493921248/home.min.js, line 5: unreachable code after return statement
+JavaScript warning: http://static.saavncdn.com/_s/1493921248/home.min.js, line 7: unreachable code after return statement
+JavaScript warning: http://static.saavncdn.com/_s/1493921248/home.min.js, line 7: unreachable code after return statement
+JavaScript warning: http://static.saavncdn.com/_s/1493921248/home.min.js, line 7: unreachable code after return statement
+JavaScript error: http://static.saavncdn.com/_s/1493921248/home.min.js, line 6: ReferenceError: FB is not defined
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+ FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329810690	Marionette	INFO	Listening on port 58087
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494329811167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://static.saavncdn.com/_s/1493921248/home.min.js, line 5: unreachable code after return statement
+JavaScript warning: http://static.saavncdn.com/_s/1493921248/home.min.js, line 7: unreachable code after return statement
+JavaScript warning: http://static.saavncdn.com/_s/1493921248/home.min.js, line 7: unreachable code after return statement
+JavaScript warning: http://static.saavncdn.com/_s/1493921248/home.min.js, line 7: unreachable code after return statement
+JavaScript error: http://static.saavncdn.com/_s/1493921248/home.min.js, line 6: ReferenceError: FB is not defined
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: http://static.saavncdn.com/_s/1493921248/home.min.js, line 5: SecurityError: The operation is insecure.
+JavaScript warning: https://www.saavn.com/_s/min/login.min.js, line 8: unreachable code after return statement
+JavaScript warning: https://www.saavn.com/_s/min/login.min.js, line 9: unreachable code after return statement
+JavaScript warning: https://www.saavn.com/_s/min/login.min.js, line 9: unreachable code after return statement
+JavaScript warning: https://www.saavn.com/_s/min/login.min.js, line 9: unreachable code after return statement
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/269, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/269, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/269, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/271, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/271, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/271, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/271, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/271, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/271, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2229:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2229:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2229:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2229:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2229:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2229:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2229:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2229:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2010: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: chrome://mozapps/content/extensions/extensions.js, line 748: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIControllers.removeController]
+1494346335884	geckodriver	INFO	Listening on 127.0.0.1:49478
+1494346337843	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494346344129	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494346349589	Marionette	INFO	Listening on port 49490
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494346350061	Marionette	WARN	TLS certificate errors will be ignored for this1494346351828	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494346353338	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494346360517	Marionette	INFO	Listening on port 49558
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494346361371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494346711952	geckodriver	INFO	Listening on 127.0.0.1:50363
+1494346713937	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494346714410	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494346720413	Marionette	INFO	Listening on port 50370
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494346721335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+ILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2010: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: chrome://mozapps/content/extensions/extensions.js, line 748: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIControllers.removeController]
+1494405972200	geckodriver::marionette	ERROR	Failed to kill browser process
+eckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494389303092	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494389308452	Marionette	INFO	Listening on port 52306
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494389308941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494405985904	geckodriver	INFO	Listening on 127.0.0.1:62895
+1494405987851	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494405989141	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494405994905	Marionette	INFO	Listening on port 62904
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494405995557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2010: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: chrome://mozapps/content/extensions/extensions.js, line 748: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIControllers.removeController]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2010: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: chrome://mozapps/content/extensions/extensions.js, line 748: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIControllers.removeController]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://app/moJavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+urce://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+_writeState@resource://app/modules/sessionstore/SessionSaver.jsm:265:12
+_saveState@resource://app/modules/sessionstore/SessionSaver.jsm:236:12
+_saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:249:5
+runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494417106931	geckodriver	INFO	Listening on 127.0.0.1:50281
+1494417109149	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494417112932	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494417122194	Marionette	INFO	Listening on port 50287
+1494417123094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494417180512	geckodriver	INFO	Listening on 127.0.0.1:50478
+1494417182674	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494417183548	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494417188950	Marionette	INFO	Listening on port 50484
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494417189326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494418544418	geckodriver	INFO	Listening on 127.0.0.1:51049
+1494418546202	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494418547982	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494418553493	Marionette	INFO	Listening on port 51058
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494418553792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1494418692960	geckodriver	INFO	Listening on 127.0.0.1:51124
+1494418695145	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494418696359	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494418701017	Marionette	INFO	Listening on port 51130
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494418701709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+ils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494418823141	Marionette	INFO	Listening on port 51242
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494418823810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+_writeState@resource://app/modules/sessionstore/SessionSaver.jsm:265:12
+_saveState@resource://app/modules/sessionstore/SessionSaver.jsm:236:12
+_saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:249:5
+runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+rtcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+vaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+rce://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494419132989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+_writeState@resource://app/modules/sessionstore/SessionSaver.jsm:265:12
+_saveState@resource://app/modules/sessionstore/SessionSaver.jsm:236:12
+_saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:249:5
+runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+INITIALIZED: AddonManager is not initialized
+1494419292977	Marionette	INFO	Listening on port 51586
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494419294097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1494430861118	geckodriver	INFO	Listening on 127.0.0.1:52871
+1494430863033	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494430865251	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494430874072	Marionette	INFO	Listening on port 52879
+1494430874731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2010: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: chrome://mozapps/content/extensions/extensions.js, line 748: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIControllers.removeController]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2010: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: chrome://mozapps/content/extensions/extensions.js, line 748: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIControllers.removeController]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2038: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494432352564	geckodriver	INFO	Listening on 127.0.0.1:51002
+1494432354479	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494432358174	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494432367277	Marionette	INFO	Listening on port 51008
+1494432368332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+EGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494432736075	Marionette	INFO	Listening on port 63199
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494432736561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+tte"]
+1494432821673	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494432826084	Marionette	INFO	Listening on port 63277
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494432826534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494432888418	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+ionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494432869438	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494432875435	Marionette	INFO	Listening on port 63338
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494432875979	Marionette	WARN	TLS certificate errors will be ignored for this session
